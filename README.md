@@ -1,1 +1,7 @@
 # 116 Project 
+### Group Members
+> [!NOTE]
+> ABBASLI,ELJAN
+> DERSE,UTKU DEVRIM
+> SENEL,DURU
+> YILMAZ,ATAKAN
