@@ -1,7 +1,12 @@
-# 116 Project 
-### Group Members
+# 116 Project
+
+## Group Members
 > [!NOTE]
-> ABBASLI,ELJAN
-DERSE,UTKU DEVRIM
-SENEL,DURU
-YILMAZ,ATAKAN
+- ABBASLI, Eljan
+- DERSE, Utku Devrim
+- SENEL, Duru
+- YILMAZ, Atakan
+
+## Docs
+
+We added these files to better show the task distribution and keep the project documents organized.
