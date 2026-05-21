@@ -9,4 +9,4 @@
 > 
 > ## Docs
 > 
-> We added these files to better show the task distribution and keep the project documents organized.
+>We created this docs folder to keep the project documents organized and make the task distribution easier to see.
