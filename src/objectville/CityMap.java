@@ -76,6 +76,8 @@ public class CityMap {
         if (ch == 'P') return new PowerPlant(r, c);
         if (ch == 'W') return new WaterStation(r, c);
         if (ch == 'T') return new InternetHub(r, c);
+        if (ch == 'F') return new PoliceStation(r, c);
+        if (ch == 'S') return new School(r, c);
         if (ch == 'D') return new Hospital(r, c);
         if (ch == 'R') return new RoadCell(r, c);
         if (ch == 'E') return new EmptyCell(r, c);
